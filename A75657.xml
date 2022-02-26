@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high-treason against Major General Harrison, Sir Arthur Hasilrig, Sir Henry Vane, and Mr. Thomas Scot. With the charge and impeachment upon an arrest of high-treason, in order to their speedy tryal in Westminster Hall: and a declaration touching their several treasons, tyrannies, theft and murders; for which they are to be arraigned, tryed, and convicted, according to the known lawes of the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75657</idno>
+            <idno type="STC">Wing A3842A</idno>
+            <idno type="STC">Thomason E1035_13</idno>
+            <idno type="STC">ESTC R209288</idno>
+            <idno type="EEBO-CITATION">99868172</idno>
+            <idno type="PROQUEST">99868172</idno>
+            <idno type="VID">168936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168936)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1035[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high-treason against Major General Harrison, Sir Arthur Hasilrig, Sir Henry Vane, and Mr. Thomas Scot. With the charge and impeachment upon an arrest of high-treason, in order to their speedy tryal in Westminster Hall: and a declaration touching their several treasons, tyrannies, theft and murders; for which they are to be arraigned, tryed, and convicted, according to the known lawes of the land.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Marm. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "Aug 4"; "Aug. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vane, Henry, --  Sir, 1612?-1662 --  Early works to 1800.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Early works to 1800.</term>
+               <term>Harrison, Thomas, 1606-1660 --  Early works to 1800.</term>
+               <term>Scott, Thomas, d. 1660 --  Early works to 1800.</term>
+               <term>Treason --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168936:1" rendition="simple:additions"/>
+            <p>ARTICLES OF High-Treaſon AGAINST Major General Harriſon, Sir Arthur Haſilrig, Sir Henry Vane, and Mr. Thomas Scot.</p>
+            <p>WITH The Charge and Impeachment upon an Arreſt of High-Treaſon, in Order to their ſpeedy Tryal in WESTMINSTER HALL: AND A Declaration touching their ſeveral Treaſons, Tyrannies, Theft and Murders; For which they are to be Arraigned, Tryed, and Convicted, according to the known Lawes of the Land.</p>
+            <p>
+               <add>Aug 4</add> 
+               <hi>LONDON,</hi> Printed for <hi>Marm. Johnſon,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168936:2"/>
+            <pb n="3" facs="tcp:168936:2"/>
+            <head>ARTICLES OF High-Treaſon, AGAINST Major General HARRISON, Sir ARTHUR HASILRIG, and Mr. SCOT; With the Charge and Impeachment againſt Them, &amp;c.</head>
+            <p>THat the Ship of this Commonwealth hath for many years paſt been ſadly toſt in a violent Tempeſt of Civil Commotions and Diſtracti<g ref="char:EOLhyphen"/>ons, hath been rather felt, than duly conſide<g ref="char:EOLhyphen"/>red, but meerly through Gods mercy, the Im<g ref="char:EOLhyphen"/>petuoſity thereof being providentially allayed, though to the coſt of more Chriſtian blood and treaſure, than would have ſerved even to Conquer that <hi>Roman</hi> party and intereſt, that ſet us ſo craftily at variance; and how hath ſhe been threatned by the ſwelling Waves of Faction, which com<g ref="char:EOLhyphen"/>monly are moſt dangerous after ſuch a ſtorm, in that there<g ref="char:EOLhyphen"/>in the fierceneſs of the Wind drove them all one way, but da<g ref="char:EOLhyphen"/>ringly
+<pb n="4" facs="tcp:168936:3"/>preſumed to fly one againſt the other for maſtery, all meeting upon the almoſt ſhipwrackt Veſſel; and what's as bad, the inſinuating leaks of Schiſm and Hereſies, inſenſibly increaſe (through her widened ſeams) ſuch quantity of troubleſome water in the Hold, that it were ſcarce imagina<g ref="char:EOLhyphen"/>ble ſhe ſhould eſcape ſinking, yet the dextrous and unwea<g ref="char:EOLhyphen"/>ried Pilots, or rather Diving Providence ſitting at Helm, not onely orders a moderate ſail, ſuch as ſhe can well bare, to carry her through the former danger, but carefully keeps the laborous Matiner watching and working at the Pumps to rid her of the latter, and though ſhe meet no other then al<g ref="char:EOLhyphen"/>moſt contrary winds and enemies; at length with difficul<g ref="char:EOLhyphen"/>ties, even to a miracle, this long weather beaten and ſhatter<g ref="char:EOLhyphen"/>ed <hi>Navy</hi> given by moſt for loſt is brought into Port, with patcht Sayles, over-worn and ſplit Cables and Tackling, Ammunition and Proviſion ſpent, many of her beſt Officers and Mariners loſt, and others very much diſcompoſed and infeebled, onely the Artillery remains, which yet was threat<g ref="char:EOLhyphen"/>ned to be caſt over board, and ſo it had been, but that there was hazard in doing thereof, and now the moſt skilfulleſt Ship wrights are gathered not onely to ſurvey, but put their helping hands for her ſpeedy repair, whereby ſhe may be kept from the ground by ſeating her upon a bed of blocks, and upheld by ſhoars, beams, and other convenient timbers: yaluing themſelves of a high Spring tide, to do all with ſafe<g ref="char:EOLhyphen"/>ty: and having made uſe of the ſerviceable waters, to com<g ref="char:EOLhyphen"/>pleat their deſires, then retireing of courſe, may be after<g ref="char:EOLhyphen"/>wards kept out by the Flood-gates, prudentialy appointed for that purpoſe. And being thus pleaſed, that nothing may oppreſſe her, the towering maſts and yards with her tackling formerly neceſſary, are laid aſide to be mended, or changed, and nothing is left of ſeeming great impediment,
+<pb n="5" facs="tcp:168936:3"/>ſave the paying her Mariners and Souldiers. But that a thorough ſearch may be deliberately made, of her lower and upper workes within board and without, each party ap<g ref="char:EOLhyphen"/>pointed undertaking their ſeveral task. Some to view the <hi>Keel, Poſt, Stem, Ground, Timbers,</hi> and <hi>Planks,</hi> ordering the abſolutely defective to be taken out, and better to be put in their roomes, yet ſo workmanlike, as that the other part ad<g ref="char:EOLhyphen"/>joyning be not weakned by this addition, others to obſerve the ſeams where the former lurking leaks had acceſſe, and care fully to caulk them with well ſpun <hi>Okam,</hi> and laying on of <hi>Pitch, Tarr,</hi> and other neceſſaries, ſo well tempered as thoſe inſinuating ſubtil-waters may never have conſiderable entrance again: And thus the <hi>bulk</hi> being ſtrenghened, or at leaſt ſo much thereof as is to be done without pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udice to the whole it will follow that the upper works, <hi>Cabins,</hi> and accommodations be fitted and adorned anſwerable to the dignity of ſo great a <hi>Fabrick,</hi> and all being ſolidly perfected what will remain, but that this our <hi>Ship</hi> be moderated balaſ<g ref="char:EOLhyphen"/>ſed, and proportionably <hi>Maſted,</hi> which being well faſtened, ſtaied, and ſhrowded, wil not onely make her compleat but comely, and may ſecurely be lanch't, and caſt the Anchor of hope with well-twiſted Cables, receive Ordnance to fill her commodious Ports with Ammunition and Proviſions neceſſary, and being thus accommodated, together with a pious, prudent, and valient <hi>Captain,</hi> skilfull, faithfull, and vigilant <hi>Pilots,</hi> Godly learned and every way quallified <hi>Chaplains</hi> expert and well tempered Officers, obedient and well-rewarded <hi>Souldiers</hi> and <hi>Mariners,</hi> the <hi>Sayls,</hi> may be brought to yard, and the <hi>Standard</hi> diſplayed againſt adver<g ref="char:EOLhyphen"/>ſaries, and terrifie others, raiſing up the drooping ſpirits of our affflicted and perſecuted friends in all parts.</p>
+            <pb n="6" facs="tcp:168936:4"/>
+            <p> But to look back upon the grand cauſes that expoſed us to ſuch direful calamities, experience plainly demonſtrates, that it proceeded from the arrogancie of ſundry new up<g ref="char:EOLhyphen"/>ſtart and domineering Tyrants; amongſt whom, Major Gen. <hi>Harriſon,</hi> Sir <hi>Arthur Haſilrigg,</hi> and Mr. <hi>Thomas Scot,</hi> are now impeached of High-Treaſon, their Charge conſiſting of theſe following Articles; in which, both themſelves and divers others were combined, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. To arraign, condemn, and execute their law<g ref="char:EOLhyphen"/>ful King himſelf, with the Peers and Commons of this Realm.</item>
+               <item>2. To diſ-inheritt his Majeſties Royal Iſſue and Poſterity of the Crown.</item>
+               <item>3. To extirpate Monarchy, and the whole Houſe of Peers.</item>
+               <item>4. To violate the Priviledges, Rights, Freedoms, Cuſtoms, and alter the Conſtitution of Parliaments themſelves; to change and ſubvert the ancient Go<g ref="char:EOLhyphen"/>vernment, Seals, Laws, Writs, Courts, and Coyn of the Kingdom.</item>
+               <item>5. To ſell and diſpoſe of all the Lands, Reve<g ref="char:EOLhyphen"/>nues, Jewels, Goods of the Crown, with the Lands of Deans and Chapters, for their own advantages, not for the eaſing of the People from Taxes.</item>
+               <item>6. To diſpoſe of the Forts, Ships, Forces, Offi<g ref="char:EOLhyphen"/>cers of Honour, Power, Truſt or Profit, to whom they pleaſe.</item>
+               <pb n="7" facs="tcp:168936:4"/>
+               <item> 7. To raiſe and keep up what Forces by Land or Sea they pleaſe, and impoſe Taxes, &amp;c. to make what new Acts, Laws, and reverſe what old ones they thought meet.</item>
+               <item>8. To abſolve themſelves (by more then a Pa<g ref="char:EOLhyphen"/>pal Power) and all the Subjects of this Land, from their Oaths of Allegeance, Engagements, and Prote<g ref="char:EOLhyphen"/>ſtations, &amp;c.</item>
+            </list>
+            <p>For all which Treaſons, Uſurpations, Tyranny, Theft and Murders, theſe, and many others, ſtand Charged and Impeached upon an Arreſt of High Treaſon, in order to a ſpeedy Tryal.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="notice_to_the_reader">
+            <pb facs="tcp:168936:5"/>
+            <head>An Advertiſement.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>AMongſt the reſt of the Engliſh grand Impoſtors, another ſad Object is here to be taken notice of, <hi>viz.</hi> A notorious Villain, as its well known throughout the City of <hi>London;</hi> being apprehen<g ref="char:EOLhyphen"/>ded for his former Cheats, Defrauds, and Couzenages, eſpeci<g ref="char:EOLhyphen"/>ally for his unparalleld and horrid proceedings, and moſt unjuſt actings againſt Mr. <hi>Henry Newman,</hi> a Gentlemon and Citizen of <hi>London</hi> of good Credit and Reputation, who by his wicked and under-hand dealing, procured falſe witneſs and perjur'd perſons to ſwear againſt the ſaid Mr. <hi>Henry Newman,</hi> to the writings which the ſaid fellow had forged and counterfited againſt him, as ſince thoſe witneſſes have declared before the Judge, by their ſeveral Affidavits: Theſe are therefore to give notice to all honeſt per<g ref="char:EOLhyphen"/>ſons, who have or ſhall at any time, have any writings whatſoever counterfeited againſt them, that this fellow is the moſt ſuſpected perſon to be the Author and Forger of any ſuch writings or pa<g ref="char:EOLhyphen"/>pers; in being known to divers, that it hath been his uſual way and practice: Witneſs a protection allowed (as he pretended by an honourable Member of Parliament his Hand and Seal) at both Counters; which upon examination was acknowledged to be falſe, by the ſaid honourable Member of Parliament, and by him declared, both for his Hand and Seal, to be both counterfeit and forged.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
